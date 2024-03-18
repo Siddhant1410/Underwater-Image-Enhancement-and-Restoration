@@ -1,4 +1,4 @@
-# UWIP
+# Undwe Water Image Enhancement and Restoration
  A python based implementation to enhance underwater images by perorming image processing and restoration.
 
 # Generator Download instruction
