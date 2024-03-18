@@ -1,0 +1,8 @@
+Step 1: Create Anaconda VirtualENV
+
+- conda create -n UWIE python=3.8.16
+
+Step 2: Activate the VirtualENV and Install necessary requirements from the custom made requirements file.
+
+- conda activate UWIE
+- pip install -r requirements.txt
